@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shyam-mishra-4669562a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shyam841501/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shyam-mishra-4669562a9" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/shyammishra_143?igsh=zjbkzgl2cjjxyxnj" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shyam841501/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shyammishra_143?igsh=zjbkzgl2cjjxyxnj" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@codewithshyam01?si=misdxolma0o_8exg" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shyam841501/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@codewithshyam01?si=misdxolma0o_8exg" height="30" width="40" /></a>
+<a href="https://youtube.com/@codewithshyam01?si=misDXOlMA0O_8ExG?si=misdxolma0o_8exg" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shyam841501/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@codewithshyam01?si=misDXOlMA0O_8ExG" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shyam_18072003" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shyam841501/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shyam_18072003" height="30" width="40" /></a>
 </p>
 

@@ -16,19 +16,13 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/shyam-mishra-4669562a9" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-<a href="https://youtube.com/@codewithshyam01?si=misDXOlMA0O_8ExG?si=misdxolma0o_8exg" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-<a href="https://www.leetcode.com/shyam_18072003" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
- <a href="https://instagram.com/https://www.instagram.com/shyammishra_143?igsh=zjbkzgl2cjjxyxnj" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="30" />
-</a>
+ <p align="left">
+                <a href="https://www.linkedin.com/in/shyam-mishra-4669562a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gcncn" height="30" width="40" /></a>
+                <a href="https://instagram.com/https://www.instagram.com/shyammishra_143?igsh=zjbkzgl2cjjxyxnj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mn" height="30" width="40" /></a>
+                <a href="https://youtube.com/@codewithshyam01?si=misDXOlMA0O_8ExG?si=misdxolma0o_8exg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kjbbk" height="30" width="40" /></a>
+                <a href="https://www.leetcode.com/shyam_18072003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kjbj" height="30" width="40" /></a>
+                <a href="https://www.geeksforgeeks.org/user/ershyammi6ffm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dgnc" height="30" width="40" /></a>
+              
 
 </p>
 
